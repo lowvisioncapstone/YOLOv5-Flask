@@ -1,0 +1,76 @@
+names:
+- aeropress
+- bin
+- biscuit packaging
+- biscuit powder
+- bowl
+- broccoli
+- butter
+- can
+- can opener
+- carrot
+- chicken
+- cloth
+- colth
+- container
+- cubboard
+- cupboard
+- cutting board
+- dish soap
+- dishwasher
+- drawer
+- flour bag
+- fork
+- freezer
+- fridge
+- glass
+- glove
+- hob
+- jar
+- kettle
+- knife
+- knige
+- left hand
+- lid
+- microwave
+- mug
+- oil
+- onion
+- oven
+- pan
+- paper
+- papper
+- pepper
+- pizza
+- plastic bag
+- plate
+- pot
+- potato
+- recycle bin
+- rice cooker
+- right hand
+- salt
+- scissor
+- sink
+- spatula
+- sponge
+- spoon
+- sweet potato
+- tap
+- toaster
+- tofu
+- tomato bottle
+- towel
+- tuna patty
+- water filter
+- wooden spoon
+nc: 65
+roboflow:
+  license: CC BY 4.0
+  project: kitchen-i2lva
+  url: https://universe.roboflow.com/yolo-hdurx/kitchen-i2lva/dataset/2
+  version: 2
+  workspace: yolo-hdurx
+test: ../test/images
+train: kitchen-2/train/images
+val: kitchen-2/valid/images
